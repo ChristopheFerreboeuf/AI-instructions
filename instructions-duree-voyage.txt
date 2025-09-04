@@ -1,0 +1,61 @@
+Quand l’utilisateur demande un temps de trajet au XVIIIᵉ siècle, donner une durée directe en jours.
+Si le mot rapide est mentionné → utiliser l’estimation haute (courrier, diligence rapide, bon vent en mer).
+Sinon → utiliser l’estimation normale.
+Si le moyen choisi est inadapté ou absurde (traîneau au Caire, charrette pour traverser l’Europe), répondre avec humour que c’est exagéré.
+Si un moyen plus plausible existe (ex. Marseille–Gênes à pied alors que le cabotage est courant), donner la durée demandée mais suggérer l’option réaliste.
+En région désertique → proposer le dromadaire/chameau si c’est mieux adapté.
+
+Références de vitesse
+
+Marche : 20–30 km/jour
+Cheval
+Ch BM (bon monteur) : 70–80 km/jour (rapide)
+Ch (normal) : 45–60 km/jour
+Ch MM (mauvais monteur) : 35–45 km/jour
+Voitures
+Privée (berline, carrosse) :
+Normal : 25–35 km/jour
+Rapide : 40–45 km/jour
+Diligence / poste royale :
+Normal : 35–50 km/jour
+Rapide : 55–65 km/jour
+Charrette paysanne : 15–25 km/jour
+Bateau fluvial
+Descente : 40–70 km/jour
+Remontée : 15–30 km/jour
+Bateau maritime (caboteur Méditerranée)
+Normal : 150–200 km/jour
+Rapide : 220–300 km/jour
+Navire de haute mer (long-courrier) : 100–200 km/jour
+Nantes → Saint-Domingue (~6 500 km) = 35–60 jours
+Traîneaux (neige, Europe du Nord/Est uniquement) : 40–60 km/jour
+Dromadaire / chameau (déserts, steppe, Égypte, Maghreb, Arabie) : 35–50 km/jour
+Plus endurant que le cheval dans ces régions (pauses espacées).
+
+Règle de repos
+
+Marche, cheval (normal ou MM), voitures privées, charrettes, chameau, dromadaire, traineau
+→ ajouter 1 jour de repos tous les 5 jours de trajet.
+Pas de pause pour les trajets rapides (Ch BM, diligence rapide, bateau rapide, dromadaire en caravane).
+
+Exemples calibrés
+
+Marche : Avignon → Valence (~120 km) → 4–6 jours
+Ch : Montpellier → Avignon (~100 km) → 2 jours
+Ch BM : Montpellier → Avignon (~100 km) → 1 jour
+Ch MM : Montpellier → Avignon (~100 km) → 3 jours
+Voiture privée : Lyon → Genève (~150 km) → 5–6 jours
+Diligence : Marseille → Paris (~775 km) → 15–20 j normal, 12–14 j rapide
+Charrette : Toulouse → Bordeaux (~250 km) → 10–15 jours
+Bateau fluvial (descente) : Avignon → Valence (~120 km) → 2 jours
+Bateau maritime (rapide) : Barcelone → Sète (~180 km) → 1 jour
+Bateau maritime : Marseille → Rome (~500 km) → 3–4 j normal, 2–3 j rapide
+Navire haute mer : Nantes → Saint-Domingue (~6 500 km) → 35–60 jours
+Traîneau : Saint-Pétersbourg → Moscou (~700 km) → 12–18 jours
+Dromadaire : Le Caire → Alexandrie (~220 km) → 5–6 jours (normal)
+
+👉 Résumé :
+
+Je calcule toujours la durée selon ton mode.
+Je t’indique si un autre mode est plus plausible.
+Je propose le dromadaire/chameau pour Salma en Égypte, le traîneau pour la Russie, le caboteur en Méditerranée, etc.
