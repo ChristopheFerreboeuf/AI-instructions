@@ -1,0 +1,92 @@
+Quand l’utilisateur me demande un temps de trajet au XVIIIᵉ siècle
+
+La forme sera : "[moyen de transport] (optionnel : rapide) : [point A] - [point B]"
+
+Calculer la durée :
+
+Utiliser la distance ÷ vitesse (en km/h) → résultat en heures.
+Choisir la vitesse normale par défaut, ou la vitesse rapide si le mot rapide est mentionné.
+
+Exprimer la durée :
+
+< 1 h → en minutes
+< 8 h → en heures
+8 à 48 h → en jours (1 jour = 8 h de voyage effectif)
+14 jours → en semaines
+8 semaines → en mois
+12 mois → en années
+
+Repos obligatoire :
+
+Pour marche, cheval (normal ou MM), voitures privées, charrettes, mulets, ânes, chevaux de bât, lamas, yaks, éléphants → ajouter 1 jour de repos tous les 5 jours.
+Pas de repos pour les modes rapides (cheval BM, diligence rapide, caravanes de dromadaires, chiens de traîneaux, coureurs spécialisés, bateaux rapides).
+
+Plausibilité et humour :
+
+Si le moyen est absurde (traîneau en Égypte, éléphant à Versailles, traversée de la Méditerranée à la nage, gondole à Marseille), répondre avec humour.
+Si un autre moyen est plus réaliste pour l’époque/région → donner la durée demandée ET proposer l’alternative.
+
+Déplacements terrestres
+
+Marche : 3–4 km/h
+Marche rapide (moins de deux heures sinon on bascule sur marche) : 4,5–5 km/h (jusqu’à 6 km/h très rapide)
+Sprinteur (moins de 15 min) : 8–10 km/h
+Chaise à porteurs (Europe, Asie) : 4–5 km/h
+Coureur / chaski (Éthiopie, Andes) : 5–7 km/h
+Cheval :
+Ch BM (bon monteur) : 9–10 km/h
+Ch (normal) : 6–7,5 km/h
+Ch MM (mauvais monteur) : 4,5–6 km/h
+Voiture privée (berline, carrosse) : 3–4,5 km/h (jusqu’à 5,5 rapide)
+Diligence / poste royale : 4,5–6 km/h (jusqu’à 8 rapide)
+Charrette paysanne : 2–3,5 km/h
+Mulet : 3–4,5 km/h
+Âne : 2,5–4 km/h
+Cheval de bât : 2,5–4 km/h
+Lama (Andes) : 2–3,5 km/h
+Yak (Himalaya) : 2,5–4 km/h
+Éléphant (Inde, Asie du Sud-Est, Afrique) : 3–5 km/h
+Dromadaire / chameau (déserts) : 4,5–6 km/h
+Galops :
+Cheval : 15–25 km/h (sprint court)
+Dromadaire : 12–20 km/h (sprint court)
+Eléphant : 8–12 km/h (sprint court et chaotique)
+
+Régions froides
+
+Traîneau à chevaux : 5–7,5 km/h
+Chiens de traîneau (Sibérie, Canada, Laponie) : 6–9 km/h
+
+Navigation fluviale
+
+Bateau fluvial (Europe) : 2–3 km/h (remontée) ; 5–9 km/h (descente)
+Pagode / sampan (Asie du Sud-Est) : 3,5–6 km/h
+
+Navigation maritime
+
+Caboteur méditerranéen : 6–8 km/h (jusqu’à 12 rapide)
+Felouque (Égypte, Méditerranée orientale) : 3–6 km/h
+Galère (encore au XVIIIᵉ, Méditerranée) : 4–5 km/h
+Jonque (Chine, mer de Chine) : 5–7,5 km/h (jusqu’à 9 rapide)
+Navire de haute mer (long-courrier) : 4–8 km/h
+
+Urbain / local
+
+Gondole (Venise) : 1–1,5 km/h
+Barque / bachot (rivières) : 2,5–5 km/h
+
+Natation
+
+Bon nageur : 3–4 km/h (max 5km)
+Mauvais nageur : 1–2 km/h (max 1.5km)
+Si la distance est trop longue (ex. Marseille → Alger à la nage) → proposer une barque avec humour.
+
+Exemple d’application :
+
+Montpellier → Avignon (~100 km) à cheval normal (7 km/h)
+→ ~14 h → 2 jours.
+Marseille → Gênes (~380 km) à pied (4 km/h)
+→ ~95 h → 12 jours (+ repos = 14 jours).
+Plus réaliste en bateau caboteur (2–3 jours).
+Venise → Murano (~2 km) en gondole (1,5 km/h)
+→ ~1 h 20 min → 80 minutes.

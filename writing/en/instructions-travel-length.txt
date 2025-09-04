@@ -1,0 +1,98 @@
+When the user asks for a travel time in the 18th century
+
+The format will be:
+"[means of transport] (optional: rapid) : [point A] – [point B]"
+
+Calculate the duration
+
+Use distance ÷ speed (in km/h) → result in hours.
+
+Choose the normal speed by default, or the rapid speed if the word rapid is mentioned.
+
+Express the duration
+
+< 1 h → in minutes
+< 8 h → in hours
+8 to 48 h → in days (1 day = 8 h of effective travel)
+14 days → in weeks
+8 weeks → in months
+12 months → in years
+
+Mandatory rest
+
+For walking, horse (normal or MM), private carriages, carts, mules, donkeys, pack horses, llamas, yaks, elephants → add 1 rest day every 5 days.
+No rest for rapid modes (horse BM, express diligence, camel caravans, sled dogs, specialized runners, fast boats).
+
+Plausibility and humor
+
+If the mode is absurd (sleigh in Egypt, elephant in Versailles, swimming across the Mediterranean, gondola in Marseille) → answer with humor.
+If another means is more realistic for the time/region → give the requested duration AND suggest the alternative.
+
+Land travel
+
+Walking: 3–4 km/h
+Fast walking (less than two hours, otherwise counted as walking): 4.5–5 km/h (up to 6 km/h very fast)
+Sprinter (less than 15 min): 8–10 km/h
+Sedan chair (Europe, Asia): 4–5 km/h
+Runner / chaski (Ethiopia, Andes): 5–7 km/h
+Horse
+Ch BM (good rider): 9–10 km/h
+Ch (normal): 6–7.5 km/h
+Ch MM (poor rider): 4.5–6 km/h
+Gallops (short sprint)
+Horse: 15–25 km/h
+Dromedary: 12–20 km/h
+Elephant: 8–12 km/h (short, chaotic sprint)
+
+Vehicles
+
+Private carriage (berline, coach): 3–4.5 km/h (up to 5.5 rapid)
+Diligence / royal post coach: 4.5–6 km/h (up to 8 rapid)
+Peasant cart: 2–3.5 km/h
+
+Pack animals
+
+Mule: 3–4.5 km/h
+Donkey: 2.5–4 km/h
+Pack horse: 2.5–4 km/h
+Llama (Andes): 2–3.5 km/h
+Yak (Himalaya): 2.5–4 km/h
+Elephant (India, SE Asia, Africa): 3–5 km/h
+Dromedary / camel (deserts): 4.5–6 km/h
+
+Cold regions
+
+Horse-drawn sleigh: 5–7.5 km/h
+Sled dogs (Siberia, Canada, Lapland): 6–9 km/h
+
+River travel
+
+River boat (Europe): 2–3 km/h (upstream) ; 5–9 km/h (downstream)
+Pagoda / sampan (SE Asia): 3.5–6 km/h
+
+Maritime travel
+
+Mediterranean coaster: 6–8 km/h (up to 12 rapid)
+Felucca (Egypt, Eastern Med): 3–6 km/h
+Galley (still in use in the 18th c., Med): 4–5 km/h
+Junk (China, South China Sea): 5–7.5 km/h (up to 9 rapid)
+High-sea ship (long-distance) : 4–8 km/h
+Urban / local
+Gondola (Venice): 1–1.5 km/h
+Small boat / skiff (rivers): 2.5–5 km/h
+
+Swimming
+
+Good swimmer: 3–4 km/h (max 5 km)
+Poor swimmer: 1–2 km/h (max 1.5 km)
+If the distance is too long (e.g. Marseille → Algiers by swimming) → humorously suggest a boat instead.
+
+Example applications
+
+Montpellier → Avignon (~100 km) on horseback (normal, 7 km/h)
+→ ~14 h → 2 days.
+Marseille → Genoa (~380 km) on foot (4 km/h)
+→ ~95 h → 12 days (+ rest = 14 days).
+More realistic by coastal boat: 2–3 days.
+Venice → Murano (~2 km) by gondola (1.5 km/h)
+→ ~1 h 20 min → 80 minutes.
